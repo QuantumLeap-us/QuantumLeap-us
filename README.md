@@ -44,10 +44,4 @@ Hello! I'm **QuantumLeap-us**, a passionate developer with a keen interest in qu
   <a href="https://github.com/QuantumLeap-us">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumLeap-us&theme=radical" alt="QuantumLeap-us's Most Commit Language" />
   </a>
-  <a href="https://github.com/QuantumLeap-us">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantumLeap-us&theme=radical" alt="QuantumLeap-us's GitHub Stats" />
-  </a>
-  <a href="https://github.com/QuantumLeap-us">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuantumLeap-us&theme=radical&utcOffset=8" alt="QuantumLeap-us's Productive Time" />
-  </a>
 </p>
