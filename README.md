@@ -6,12 +6,14 @@
 
 Hello! I'm **QuantumLeap-us**, a passionate developer with a keen interest in quantum computing and machine learning. I love exploring new technologies and applying them to solve real-world problems. Here are a few things about me:
 
-- 🌍 Based in Quantum City
-- 🎓 Graduated in Computer Science
-- 🔭 Currently working on Quantum Algorithm Optimization
-- 🌱 Learning more about quantum algorithms and advanced AI techniques
-- 💬 Ask me about quantum computing, machine learning, and software development
-- 📫 How to reach me: quantumleap@example.com
+👨‍💻 Freelance Developer | Crypto Script Enthusiast
+🚀 Living in Quantum City, where I code like there’s no tomorrow.
+🎓 Computer Science graduate, but I’m all about building practical and innovative solutions for the crypto world.
+🔐 Crypto Scripts & Tools: I specialize in creating and sharing handy scripts that help make your crypto journey smoother—whether it’s automating trades, optimizing wallets, or tweaking security protocols.
+🌱 Always learning, always improving, and constantly experimenting with new ways to leverage tech for crypto!
+💬 If you're into crypto or need some cool scripts to make your life easier, hit me up!
+📫 How to reach me: TG [Susparkling](https://t.me/Susparkling)
+
 
 ## Technologies & Tools
 
@@ -20,10 +22,10 @@ Hello! I'm **QuantumLeap-us**, a passionate developer with a keen interest in qu
 ![Qiskit](https://img.shields.io/badge/Qiskit-FFCA28?style=for-the-badge&logo=ibm&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## GitHub Stats
 
 ![QuantumLeap-us's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumLeap-us&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumLeap-us&layout=compact&theme=radical)
-
-
