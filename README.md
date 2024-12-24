@@ -23,8 +23,23 @@ Hello! I'm **QuantumLeap-us**, a passionate developer with a keen interest in qu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## GitHub Stats
 
-![QuantumLeap-us's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumLeap-us&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumLeap-us&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/QuantumLeap-us">
+    <img src="https://github-readme-stats.vercel.app/api?username=QuantumLeap-us&show_icons=true&theme=radical" alt="QuantumLeap-us's GitHub Stats" />
+  </a>
+  <a href="https://github.com/QuantumLeap-us">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumLeap-us&theme=radical" alt="QuantumLeap-us's GitHub Streak" />
+  </a>
+  <a href="https://github.com/QuantumLeap-us">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumLeap-us&layout=compact&theme=radical" alt="QuantumLeap-us's Top Languages" />
+  </a>
+</p>
