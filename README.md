@@ -16,30 +16,38 @@ Hello! I'm **QuantumLeap-us**, a passionate developer with a keen interest in qu
 
 ## Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-FFCA28?style=for-the-badge&logo=ibm&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Qiskit-FFCA28?style=for-the-badge&logo=ibm&logoColor=black" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</p>
 
 ## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/QuantumLeap-us">
-    <img src="https://github-readme-stats.vercel.app/api?username=QuantumLeap-us&show_icons=true&theme=radical" alt="QuantumLeap-us's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumLeap-us&theme=radical" alt="QuantumLeap-us's GitHub Profile Summary" />
   </a>
   <a href="https://github.com/QuantumLeap-us">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumLeap-us&theme=radical" alt="QuantumLeap-us's GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumLeap-us&theme=radical" alt="QuantumLeap-us's GitHub Top Languages" />
   </a>
   <a href="https://github.com/QuantumLeap-us">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumLeap-us&layout=compact&theme=radical" alt="QuantumLeap-us's Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumLeap-us&theme=radical" alt="QuantumLeap-us's Most Commit Language" />
+  </a>
+  <a href="https://github.com/QuantumLeap-us">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantumLeap-us&theme=radical" alt="QuantumLeap-us's GitHub Stats" />
+  </a>
+  <a href="https://github.com/QuantumLeap-us">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuantumLeap-us&theme=radical&utcOffset=8" alt="QuantumLeap-us's Productive Time" />
   </a>
 </p>
