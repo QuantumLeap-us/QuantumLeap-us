@@ -1,4 +1,4 @@
-# Welcome to QuantumLeap-us's GitHub Profile! 👋
+# Welcome to GitWit GitHub Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=QuantumLeap-us&color=blue)
 
