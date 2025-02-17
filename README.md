@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm **QuantumLeap-us**, a passionate developer with a keen interest in quantum computing and machine learning. I love exploring new technologies and applying them to solve real-world problems. Here are a few things about me:
+Hello! I'm **GitWit**, a passionate developer with a keen interest in quantum computing and machine learning. I love exploring new technologies and applying them to solve real-world problems. Here are a few things about me:
 
 - 👨‍💻 Freelance Developer | Crypto Script Enthusiast
 - 🚀 Living in Quantum City, where I code like there’s no tomorrow.
