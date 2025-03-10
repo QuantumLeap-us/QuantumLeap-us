@@ -12,7 +12,7 @@ Hello! I'm **GitWit**, a passionate developer with a keen interest in quantum co
 - 🔐 Crypto Scripts & Tools: I specialize in creating and sharing handy scripts that help make your crypto journey smoother—whether it’s automating trades, optimizing wallets, or tweaking security protocols.
 - 🌱 Always learning, always improving, and constantly experimenting with new ways to leverage tech for crypto!
 - 💬 If you're into crypto or need some cool scripts to make your life easier, hit me up!
-- 📫 How to reach me: TG [Susparkling](https://t.me/Susparkling)
+- 📫 How to reach me: TG [Error404Hero](https://t.me/Error404Hero)
 
 ## Technologies & Tools
 
